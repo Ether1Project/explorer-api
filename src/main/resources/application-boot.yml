@@ -1,7 +1,7 @@
 server:
  port: 8089
 web3:
-  serverAddress: http://walletapi.nilu.tech
+  serverAddress: http://localhost:8545
 logging:
   level:
     tech.nilu.platform.explorer.config.auto: ERROR

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.5.2
+Built-By: ether1
+Build-Jdk: 10.0.2
+Implementation-Title: explorer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: tech.nilu.platform
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/explorer
+

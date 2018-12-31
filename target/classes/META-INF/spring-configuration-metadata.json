@@ -1,0 +1,28 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "tech.nilu.platform.explorer.config.auto.Web3Config",
+      "name": "web3",
+      "type": "tech.nilu.platform.explorer.config.auto.Web3Config"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "tech.nilu.platform.explorer.config.auto.Web3Config",
+      "name": "web3.server-address",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "tech.nilu.platform.explorer.config.auto.Web3Config",
+      "defaultValue": false,
+      "name": "web3.ssl-verification-ignored",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "tech.nilu.platform.explorer.config.auto.Web3Config",
+      "name": "web3.timeout",
+      "type": "java.lang.Long"
+    }
+  ]
+}
